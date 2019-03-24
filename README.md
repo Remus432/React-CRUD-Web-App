@@ -1,3 +1,11 @@
-# crudrouter-oqktg7
+# React CRUD Web App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/crudrouter-oqktg7)
+This web app allows the user to 
+
+* Add Books
+* Edit Data About Books
+* View Books
+* Delete Books
+
+
+
