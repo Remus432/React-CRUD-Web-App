@@ -10,6 +10,7 @@ This web app allows the user to
 It was built using 
 
 1. React
+1. React Router for routing
 2. React Redux for state
 3. React Boostrap for UI
 4. UUID for generating an unique id
