@@ -15,7 +15,7 @@ It was built using
 4. UUID for generating an unique id
 
 
-The purpose of this project was to learn how to use Redux at a larger scale but it turned out into a prototype of a very interesting web app. 
-There is a high possibility I will further work on it and make improvements.
+***The purpose of this project was to learn how to use Redux at a larger scale but it turned out into a prototype of a very interesting web app. 
+There is a high possibility I will further work on it and make improvements.***
 
 
